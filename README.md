@@ -6,3 +6,4 @@
 
 [thumbnail]: https://www.freecodecamp.org/news/content/images/size/w2000/2022/09/Group-69.png "freeCodeCamp article thumbnail"
 
+[Continues Here](/with-tailwindcss-app/)
